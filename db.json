@@ -1,0 +1,13 @@
+[
+    {
+    "no":1,"category":"functional",
+    "description":"button not working",
+    "priority":1,
+    "status":"open"},
+    {  
+    "no":2,"category":"UI",
+    "description":"UI not working",
+    "priority":2,
+    "status":"open"
+    }
+    ]
